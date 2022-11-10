@@ -1,0 +1,7 @@
+.env
+.vscode
+yolov5x6.pt
+runs/
+__pycache__/
+.python-version
+*.jpg
